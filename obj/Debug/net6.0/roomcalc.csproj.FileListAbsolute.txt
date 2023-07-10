@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\roomcalc\roomcalc\bin\Debug\net6.0\roomcalc.exe
+C:\Users\osabd\source\repos\roomcalc\roomcalc\bin\Debug\net6.0\roomcalc.deps.json
+C:\Users\osabd\source\repos\roomcalc\roomcalc\bin\Debug\net6.0\roomcalc.runtimeconfig.json
+C:\Users\osabd\source\repos\roomcalc\roomcalc\bin\Debug\net6.0\roomcalc.dll
+C:\Users\osabd\source\repos\roomcalc\roomcalc\bin\Debug\net6.0\roomcalc.pdb
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\roomcalc.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\roomcalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\roomcalc.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\roomcalc.AssemblyInfo.cs
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\roomcalc.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\roomcalc.dll
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\refint\roomcalc.dll
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\roomcalc.pdb
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\roomcalc.genruntimeconfig.cache
+C:\Users\osabd\source\repos\roomcalc\roomcalc\obj\Debug\net6.0\ref\roomcalc.dll
